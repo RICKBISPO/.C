@@ -13,7 +13,7 @@ valorizamos muito a participação da comunidade e estamos sempre em busca de ma
 - Envie as alterações para seu repositório forkado: git push origin minha-branch
 - Abra um pull request no repositório original, descrevendo suas alterações e o motivo pelo qual elas são importantes.
 
-## Diretrizes de contribuição
+## Diretrizes de contribuição :wave:
 
 Para garantir que todas as contribuições sejam úteis e relevantes, pedimos que você siga as seguintes diretrizes:
 
