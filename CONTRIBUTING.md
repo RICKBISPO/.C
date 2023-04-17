@@ -7,10 +7,10 @@ valorizamos muito a participação da comunidade e estamos sempre em busca de ma
 
 - Faça um fork do repositório para sua conta pessoal.
 - Clone o repositório forkado em sua máquina local.
-- Crie uma nova branch para suas alterações: **git checkout -b minha-branch**
-- Faça suas alterações e adicione os arquivos modificados: **git add .**
-- Faça o commit das alterações: **git commit -m "Descrição das alterações"**
-- Envie as alterações para seu repositório forkado: **git push origin minha-branch**
+- Crie uma nova branch para suas alterações: ***git checkout -b minha-branch***
+- Faça suas alterações e adicione os arquivos modificados: ***git add .***
+- Faça o commit das alterações: ***git commit -m "Descrição das alterações"***
+- Envie as alterações para seu repositório forkado: ***git push origin minha-branch***
 - Abra um pull request no repositório original, descrevendo suas alterações e o motivo pelo qual elas são importantes.
 
 ## Diretrizes de contribuição :wave:
