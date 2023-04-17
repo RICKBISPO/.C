@@ -11,3 +11,7 @@ para quem está estudando ou trabalhando com a linguagem.
 - **Exercícios resolvidos:** uma seleção de exercícios propostos em livros, cursos e plataformas de ensino.
 
 - **Recursos:** uma lista de recursos úteis para quem está estudando ou trabalhando com C, bibliotecas, ferramentas, etc.
+
+## Como contribuir
+
+Se você tem interesse em contribuir com conteúdos para este repositório, fique à vontade para abrir um pull request com suas adições. Lembre-se de seguir as diretrizes de contribuição descritas no arquivo CONTRIBUTING.md para garantir que seu conteúdo seja aceito e publicado corretamente.
