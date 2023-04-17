@@ -4,7 +4,7 @@ Este repositório contém diversos conteúdos relacionados à linguagem de progr
 incluindo exemplos de código, exercícios resolvidos, projetos e recursos úteis 
 para quem está estudando ou trabalhando com a linguagem.
 
-## Conteúdos disponíveis :rocket:
+## Conteúdos disponíveis :man_technologist:
 
 - **Exemplos de código:** uma coleção de exemplos práticos de como usar a linguagem C para realizar diferentes tarefas, desde operações básicas até uso de bibliotecas específicas.
 
