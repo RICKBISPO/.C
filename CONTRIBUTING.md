@@ -3,7 +3,7 @@
 Obrigado pelo seu interesse em contribuir com este repositório! 
 valorizamos muito a participação da comunidade e estamos sempre em busca de maneiras de melhorar e expandir nossos conteúdos.
 
-## Como contribuir
+## Como contribuir :rocket:
 
 - Faça um fork do repositório para sua conta pessoal.
 - Clone o repositório forkado em sua máquina local.
