@@ -1,7 +1,8 @@
 # REPOSITÓRIO DE CONTEÚDOS EM LINGUAGEM C
   
-  <br>
-<img align="left" alt="bispo-c" height="300" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <br>
+<p>
+    Este repositório contém diversos conteúdos relacionados à linguagem de programação C, 
+    incluindo exemplos de código, exercícios resolvidos, projetos e recursos úteis para quem está estudando ou trabalhando com a linguagem.
+</p>
 
 <h2>Conteúdos disponíveis</h2>
