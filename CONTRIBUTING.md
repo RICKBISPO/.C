@@ -28,6 +28,6 @@ Para garantir que todas as contribuições sejam úteis e relevantes, pedimos qu
 Agradecemos a todos que contribuem com o repositório e ajudam a torná-lo uma fonte valiosa de informações e 
 recursos para a comunidade de programação em C. 
 Se você tiver alguma dúvida ou precisar de ajuda em algum momento do processo de contribuição, 
-não hesite em entrar em contato conosco.
+não hesite em entrar em contato.
 
 **henriquebispo1717@gmail.com**
