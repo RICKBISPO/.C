@@ -14,5 +14,5 @@ para quem está estudando ou trabalhando com a linguagem.
 
 ## Como contribuir
 
-Se você tem interesse em contribuir com conteúdos para este repositório, fique à vontade para abrir um pull request com suas adições. Lembre-se de seguir as diretrizes de contribuição descritas no arquivo CONTRIBUTING.md para garantir que seu conteúdo seja aceito e publicado corretamente.
-see documentation [here](myLib/README.md)
+Se você tem interesse em contribuir com conteúdos para este repositório, fique à vontade para abrir um pull request com suas adições. Lembre-se de seguir as diretrizes de contribuição descritas no arquivo [CONTRIBUTING.md](myLib/CONTRIBUTING.md)para garantir que seu conteúdo seja aceito e publicado corretamente.
+
