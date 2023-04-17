@@ -16,4 +16,6 @@ para quem está estudando ou trabalhando com a linguagem.
 
 Se você tem interesse em contribuir com conteúdos para este repositório, fique à vontade para abrir um pull request com suas adições. Lembre-se de seguir as diretrizes de contribuição descritas no arquivo [CONTRIBUTING.md](https://github.com/RICKBISPO/.C/blob/main/CONTRIBUTING.md) para garantir que seu conteúdo seja aceito e publicado corretamente.
 
-<img align="center" alt="bispo-c" height="300" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
+<br><br>
+<img align="left" alt="bispo-c" height="300" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
