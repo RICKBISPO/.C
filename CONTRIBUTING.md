@@ -1,7 +1,7 @@
 # GUIA DE CONTRIBUIÇÃO
 
 Obrigado pelo seu interesse em contribuir com este repositório! 
-Nós valorizamos muito a participação da comunidade e estamos sempre em busca de maneiras de melhorar e expandir nossos conteúdos.
+valorizamos muito a participação da comunidade e estamos sempre em busca de maneiras de melhorar e expandir nossos conteúdos.
 
 ## Como contribuir
 
@@ -15,7 +15,7 @@ Nós valorizamos muito a participação da comunidade e estamos sempre em busca 
 
 ## Diretrizes de contribuição
 
-Para garantir que todas as contribuições sejam úteis e relevantes, pedimos que você siga as seguintes diretrizes:]
+Para garantir que todas as contribuições sejam úteis e relevantes, pedimos que você siga as seguintes diretrizes:
 
 - Seja claro e conciso em suas descrições e comentários de código.
 - Certifique-se de que suas alterações estão em conformidade com as práticas recomendadas de codificação em C.
