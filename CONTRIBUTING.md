@@ -23,7 +23,7 @@ Para garantir que todas as contribuições sejam úteis e relevantes, pedimos qu
 - Evite adicionar conteúdo duplicado ou informações que já estão presentes no repositório.
 - Mantenha um tom respeitoso e profissional em todas as comunicações.
 
-## Agradecimentos
+## Agradecimentos :heart:
 
 Agradecemos a todos que contribuem com o repositório e ajudam a torná-lo uma fonte valiosa de informações e 
 recursos para a comunidade de programação em C. 
