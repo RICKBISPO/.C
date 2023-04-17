@@ -5,4 +5,4 @@
     incluindo exemplos de código, exercícios resolvidos, projetos e recursos úteis para quem está estudando ou trabalhando com a linguagem.
 </p>
 
-<h2>Conteúdos disponíveis</h2>
+## Conteúdos disponíveis
