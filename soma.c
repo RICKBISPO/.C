@@ -1,4 +1,4 @@
-/* Some dois números */
+/* Some 2 números */
 
 #include <stdio.h>
 
