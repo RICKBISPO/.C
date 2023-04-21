@@ -30,4 +30,4 @@ recursos para a comunidade de programação em C.
 Se você tiver alguma dúvida ou precisar de ajuda em algum momento do processo de contribuição, 
 não hesite em entrar em contato.
 
-**henriquebispo1717@gmail.com**
+**henriquefbispo.dev@gmail.com**
