@@ -1,73 +1,91 @@
 #include <stdio.h>
 
-int readInt();
-int is_even(int value);
-double calculo_media(int n1, int n2, int n3, int n4);
+int even(int n);
+int odd(int n);
+int positive(int n);
 
-int main(int argc, char const *argv[])
-{
-    int a, b, c, d;
-    double media;
+int main() {
+    
+    int contador, number;
 
-    a = readInt();
-    b = readInt();
-    c = readInt();
-    d = readInt();
+    scanf("%d",&contador);
 
-    media = calculo_media(a, b, c, d);
+    if (contador < 10000)
+    {
+        while (contador > 0)
+        {
+            scanf("%d",&number);
 
-    media == 0 ? printf("Não existe valor par.") : printf("MEDIA = %.3lf", media);
-    printf("\n\n");
+            if (number == 0)
+            {
+                printf("NULL\n");
+            }
+            else
+            {
+                if (even(number))
+                {
+                    if (positive(number))
+                    {
+                        printf("EVEN POSITIVE\n");
+                    }
+                    else
+                    {
+                        printf("EVEN NEGATIVE\n");
+                    }
+                }
+
+                if (odd(number))
+                {
+                    if (positive(number))
+                    {
+                        printf("ODD POSITIVE\n");
+                    }
+                    else
+                    {
+                        printf("ODD NEGATIVE\n");
+                    }
+                }
+            }
+            
+            contador--;
+        }
+    }
 
     return 0;
 }
 
-double calculo_media(int n1, int n2, int n3, int n4){
-    double sum, count;
+int even(int n) {
 
-    sum = 0;
-    count = 0;
+    int r = 0;
 
-    if(is_even(n1)){
-        sum = sum + n1;
-        count = count + 1;
+    if (n % 2 == 0)
+    {
+        r = 1;
     }
-
-    if(is_even(n2)){
-        sum = sum + n2;
-        count++;
-    }
-
-    if(is_even(n3)){
-        sum = sum + n3;
-        ++count;
-    }
-
-    if(is_even(n4)){
-        sum += n4;
-        count++;
-    }
-
-    if(count != 0){
-        return sum / count;
-    }else{
-        return 0;
-    }
-
-}
-
-int is_even(int value) {
-
-    return value % 2 == 0;
-}
-
-
-int readInt() {
     
-    int value;
+    return r;
+}
 
-    printf("Digite número inteiro: ");
-    scanf("%d", &value);
+int odd(int n) {
 
-    return value;
+    int r = 0;
+
+    if (n % 2 != 0)
+    {
+        r = 1;
+    }
+    
+    return r;
+}
+
+int positive(int n) {
+
+    int r = 0;
+
+    if (n > 0)
+    {
+        r = 1;
+    }
+    
+    return r;
 }
